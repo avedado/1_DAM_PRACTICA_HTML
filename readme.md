@@ -35,3 +35,4 @@ El trabajo se podrá entregar usando un repositorio git online o una entrega en 
 
 En este repositorio se podrá encontrar un documento con la rúbrica de evaluación del proyecto.
 
+A la hora de evaluar se tendrá en cuenta la calidad del código (Limpieza, consistencia, comentarios, identación etc...)
